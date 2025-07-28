@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "documents": ["doc1.pdf", "doc2.pdf", "doc3.pdf"],
+    "persona": "Investment Analyst",
+    "job": "Analyze revenue trends, R&D investments, and market positioning strategies",
+    "timestamp": "2025-07-28T10:30:00"
+  },
+  "extracted_sections": [
+    {
+      "document": "doc1.pdf",
+      "page": 5,
+      "section_title": "Revenue Analysis",
+      "importance_rank": 3
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "doc1.pdf",
+      "page": 6,
+      "refined_text": "Revenue grew by 25% year-over-year, driven by cloud services."
+    }
+  ]
+}
